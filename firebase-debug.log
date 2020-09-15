@@ -1,0 +1,182 @@
+[debug] [2020-09-15T22:59:44.744Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T22:59:44.745Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lucas\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-09-15T22:59:44.745Z] CLI Version:   8.10.0
+[debug] [2020-09-15T22:59:44.745Z] Platform:      win32
+[debug] [2020-09-15T22:59:44.745Z] Node Version:  v12.14.0
+[debug] [2020-09-15T22:59:44.746Z] Time:          Tue Sep 15 2020 16:59:44 GMT-0600 (Mountain Daylight Time)
+[debug] [2020-09-15T22:59:44.746Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T22:59:44.747Z] 
+[info] Already logged in as lucasgerroir@gmail.com
+[debug] [2020-09-15T23:00:04.320Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:00:04.321Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lucas\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-09-15T23:00:04.322Z] CLI Version:   8.10.0
+[debug] [2020-09-15T23:00:04.322Z] Platform:      win32
+[debug] [2020-09-15T23:00:04.322Z] Node Version:  v12.14.0
+[debug] [2020-09-15T23:00:04.323Z] Time:          Tue Sep 15 2020 17:00:04 GMT-0600 (Mountain Daylight Time)
+[debug] [2020-09-15T23:00:04.323Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:00:04.323Z] 
+[debug] [2020-09-15T23:00:04.331Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-15T23:00:04.333Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\lucas\Documents\Workspace\Labs\angular-app\angular-app
+
+[error] 
+[error] Error: Aborted by user.
+[debug] [2020-09-15T23:00:11.277Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:00:11.278Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lucas\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-09-15T23:00:11.279Z] CLI Version:   8.10.0
+[debug] [2020-09-15T23:00:11.279Z] Platform:      win32
+[debug] [2020-09-15T23:00:11.279Z] Node Version:  v12.14.0
+[debug] [2020-09-15T23:00:11.280Z] Time:          Tue Sep 15 2020 17:00:11 GMT-0600 (Mountain Daylight Time)
+[debug] [2020-09-15T23:00:11.280Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:00:11.280Z] 
+[debug] [2020-09-15T23:00:11.288Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-15T23:00:11.289Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\lucas\Documents\Workspace\Labs\angular-app\angular-app
+
+[error] 
+[error] Error: Must select at least one feature. Use SPACEBAR to select features, or provide a feature with firebase init [feature_name]
+[debug] [2020-09-15T23:00:59.342Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:00:59.344Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lucas\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-09-15T23:00:59.344Z] CLI Version:   8.10.0
+[debug] [2020-09-15T23:00:59.344Z] Platform:      win32
+[debug] [2020-09-15T23:00:59.344Z] Node Version:  v12.14.0
+[debug] [2020-09-15T23:00:59.345Z] Time:          Tue Sep 15 2020 17:00:59 GMT-0600 (Mountain Daylight Time)
+[debug] [2020-09-15T23:00:59.345Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:00:59.345Z] 
+[debug] [2020-09-15T23:00:59.353Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-15T23:00:59.354Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\lucas\Documents\Workspace\Labs\angular-app\angular-app
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-09-15T23:01:07.966Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-09-15T23:01:07.967Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-09-15T23:01:08.193Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:01:08 GMT","server":"scaffolding on HTTPServer2","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-09-15T23:01:08.211Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?pageSize=100  
+ 
+[debug] [2020-09-15T23:01:08.849Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:01:08 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  Using project angular-app-cb4e2 (angular-app) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2020-09-15T23:03:32.500Z] >>> HTTP REQUEST GET https://www.gstatic.com/firebasejs/releases.json  
+ 
+[debug] [2020-09-15T23:03:32.636Z] <<< HTTP RESPONSE 200 {"accept-ranges":"bytes","vary":"Accept-Encoding, Origin","content-type":"application/json","content-length":"1429","date":"Tue, 15 Sep 2020 22:25:09 GMT","expires":"Tue, 15 Sep 2020 23:15:09 GMT","last-modified":"Thu, 10 Sep 2020 19:51:39 GMT","x-content-type-options":"nosniff","server":"sffe","x-xss-protection":"0","cache-control":"public, max-age=3000","age":"2303","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""}
+[info] i  Skipping write of dist/angular-app/index.html 
+[info] 
+[info] i  Writing configuration info to firebase.json... 
+[info] i  Writing project information to .firebaserc... 
+[info] 
+[info] +  Firebase initialization complete! 
+[debug] [2020-09-15T23:03:48.965Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:03:48.967Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lucas\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2020-09-15T23:03:48.967Z] CLI Version:   8.10.0
+[debug] [2020-09-15T23:03:48.967Z] Platform:      win32
+[debug] [2020-09-15T23:03:48.967Z] Node Version:  v12.14.0
+[debug] [2020-09-15T23:03:48.968Z] Time:          Tue Sep 15 2020 17:03:48 GMT-0600 (Mountain Daylight Time)
+[debug] [2020-09-15T23:03:48.968Z] ----------------------------------------------------------------------
+[debug] [2020-09-15T23:03:48.968Z] 
+[debug] [2020-09-15T23:03:48.974Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-15T23:03:48.976Z] > authorizing via signed-in user
+[debug] [2020-09-15T23:03:48.977Z] [iam] checking project angular-app-cb4e2 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2020-09-15T23:03:48.980Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/angular-app-cb4e2:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2020-09-15T23:03:49.211Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:03:49 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=44","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-09-15T23:03:49.216Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/angular-app-cb4e2  
+ 
+[debug] [2020-09-15T23:03:49.445Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:03:49 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Deploying to 'angular-app-cb4e2'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2020-09-15T23:03:49.494Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/angular-app-cb4e2/versions  
+ {"config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2020-09-15T23:03:50.819Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:03:50 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting[angular-app-cb4e2]: beginning deploy... 
+[info] i  hosting[angular-app-cb4e2]: found 18 files in dist/angular-app 
+[debug] [2020-09-15T23:03:50.887Z] [hosting] hash cache [ZGlzdFxhbmd1bGFyLWFwcA] not populated
+[debug] [2020-09-15T23:03:50.931Z] [hosting] hash cache [ZGlzdFxhbmd1bGFyLWFwcA] stored for 18 files
+[debug] [2020-09-15T23:03:50.943Z] [hosting][hash queue][FINAL] {"max":35,"min":9,"avg":12.944444444444445,"active":0,"complete":18,"success":18,"errored":0,"retried":0,"total":18,"elapsed":54}
+[debug] [2020-09-15T23:03:50.944Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/angular-app-cb4e2/versions/8b1ecfacdf9a3350:populateFiles  
+ <request body omitted>
+[debug] [2020-09-15T23:03:51.623Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:03:51 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-09-15T23:03:51.680Z] [hosting][populate queue][FINAL] {"max":744,"min":744,"avg":744,"active":0,"complete":1,"success":1,"errored":0,"retried":0,"total":1,"elapsed":752}
+[debug] [2020-09-15T23:03:51.755Z] [hosting] uploads queued: 18
+[debug] [2020-09-15T23:03:53.573Z] [hosting][upload queue][FINAL] {"max":1901,"min":1399,"avg":1551.9444444444443,"active":0,"complete":18,"success":18,"errored":0,"retried":0,"total":18,"elapsed":1902}
+[info] +  hosting[angular-app-cb4e2]: file upload complete 
+[debug] [2020-09-15T23:03:53.577Z] [hosting] deploy completed after 2717ms
+[debug] [2020-09-15T23:03:53.700Z] [
+  {
+    "config": {
+      "public": "dist/angular-app",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ],
+      "site": "angular-app-cb4e2"
+    },
+    "site": "angular-app-cb4e2",
+    "version": "sites/angular-app-cb4e2/versions/8b1ecfacdf9a3350"
+  }
+]
+[info] i  hosting[angular-app-cb4e2]: finalizing version... 
+[debug] [2020-09-15T23:03:53.734Z] >>> HTTP REQUEST PATCH https://firebasehosting.googleapis.com/v1beta1/sites/angular-app-cb4e2/versions/8b1ecfacdf9a3350?updateMask=status  
+ {"status":"FINALIZED"}
+[debug] [2020-09-15T23:03:54.318Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:03:54 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-09-15T23:03:54.321Z] [hosting] finalized version for angular-app-cb4e2: {"name":"sites/angular-app-cb4e2/versions/8b1ecfacdf9a3350","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2020-09-15T23:03:49.770755Z","createUser":{"email":"lucasgerroir@gmail.com"},"finalizeTime":"2020-09-15T23:03:54.113897Z","finalizeUser":{"email":"lucasgerroir@gmail.com"}}
+[info] +  hosting[angular-app-cb4e2]: version finalized 
+[info] i  hosting[angular-app-cb4e2]: releasing new version... 
+[debug] [2020-09-15T23:03:54.353Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/angular-app-cb4e2/releases?version_name=sites/angular-app-cb4e2/versions/8b1ecfacdf9a3350  
+ {"message":null}
+[debug] [2020-09-15T23:03:54.831Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 15 Sep 2020 23:03:54 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-09-15T23:03:54.833Z] [hosting] release: {"name":"sites/angular-app-cb4e2/releases/1600211034045118","version":{"name":"sites/angular-app-cb4e2/versions/8b1ecfacdf9a3350","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2020-09-15T23:03:49.770755Z","createUser":{"email":"lucasgerroir@gmail.com"},"finalizeTime":"2020-09-15T23:03:54.113897Z","finalizeUser":{"email":"lucasgerroir@gmail.com"},"preview":{}},"type":"DEPLOY","releaseTime":"2020-09-15T23:03:54.045118297Z","releaseUser":{"email":"lucasgerroir@gmail.com"}}
+[info] +  hosting[angular-app-cb4e2]: release complete 
+[info] 
+[info] +  Deploy complete! 
+[info] 
+[info] Project Console: https://console.firebase.google.com/project/angular-app-cb4e2/overview
+[info] Hosting URL: https://angular-app-cb4e2.web.app

@@ -1,0 +1,26 @@
+.backdrop{
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top:0;
+  z-index: 9;
+  background-color: rgba(0,0,0, 0.4);
+}
+
+.alert-box {
+    position: fixed;
+    top: 30vh;
+    left: 20vw;
+    width: 60vw;
+    padding:2rem;
+    z-index: 10;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26) ;
+}
+
+.alert-box-actions {
+  text-align: right;
+}

@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-10">
+    <app-shopping-edit></app-shopping-edit>
+    <hr>
+
+    <mat-list>
+      <mat-list-item *ngFor="let ingredient of ingredients; let i = index" (click)="onEditItem(i)">
+        <h3 matLine> {{ingredient.name}} ({{ingredient.amount}}) </h3>
+        <p matLine>
+          <span>  </span>
+        </p>
+      </mat-list-item>
+    </mat-list>
+
+  </div>
+</div>
